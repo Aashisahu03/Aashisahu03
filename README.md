@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/80s-retro-1980s-x45I8CY1Vs45G" height="400" width="1800">
+<img src="https://giphy.com/gifs/80s-retro-1980s-x45I8CY1Vs45G">
 <h1 align="center">Hi 👋, I'm Aashi Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
